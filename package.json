@@ -1,6 +1,7 @@
 {
   "name": "jobly-frontend",
   "version": "0.1.0",
+  "homepage": "https://jobly-frontend-xxxx.onrender.com",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
